@@ -1,37 +1,28 @@
-# 👋 Hi, I’m Poojitha Anuvalasetty
+# Hi, I'm Poojitha 👋
 
-🎓 Recently graduated with a Master’s in Data Analytics Engineering from George Mason University  
-💻 Passionate about transforming real-world data into insights and impactful solutions  
-🛠️ Tools I use: Python, SQL, R, AWS, Tableau, Power BI, Databricks  
-🔍 Interests: Data analytics, pipelines, dashboards, and healthcare applications  
-📄 [View My Portfolio ➜](https://www.notion.so/SELECT-FROM-Poojitha-1fb0edb9699f80279cf7e15926b7a349?pvs=4)
+🎓 I'm a Master's student in Data Analytics Engineering at George Mason University, passionate about solving real-world problems using data.
 
----
+🔍 I specialize in data analytics, business intelligence, and cloud-based data workflows. My toolkit includes Python, SQL, Tableau, Power BI, AWS, and more.
 
-## 📌 Highlight Projects
+📊 I’ve worked on diverse data projects in healthcare, transportation, and public funding — using machine learning, EDA, and dashboarding to uncover actionable insights.
 
-### 🧠 [Heart Health Indicators Analysis](#)
-- Logistic regression & EDA using BRFSS dataset  
-- Tools: R, Python, AWS-based SQL  
+## 🚀 Projects
 
-### ✈️ [Flight Delay & Cancellation Prediction](#)
-- ML models using PySpark & Databricks  
-- Identified delay trends by season, time, and airline  
+- **[Flight Delay & Cancellation Prediction](https://github.com/Poojithaanuvalasetty/flight-delay-cancellation-prediction)**  
+  Analyzed 3M+ records to build models predicting flight disruptions with 95% accuracy using PySpark and Tableau.
 
-### 🧬 [Breast Cancer Subtype Prediction](#)
-- Classification models on METABRIC data  
-- SHAP values for model explainability  
+- **[Breast Cancer Prediction (METABRIC)](https://github.com/Poojithaanuvalasetty/breast-cancer-prediction-metabric)**  
+  Applied logistic regression, random forest, and gradient boosting models with SHAP analysis to identify subtype-specific treatment indicators.
 
-### 🧾 [USAspending Dashboard – CDBG-DR](#)
-- API automation + Tableau dashboard  
-- Grant flows & trends for Puerto Rico disaster recovery  
+- **[Heart Health Indicators Analysis](https://github.com/Poojithaanuvalasetty/heart-health-indicators-analysis)**  
+  Conducted EDA and logistic regression on BRFSS survey data to explore correlations between diabetes, BMI, and heart disease.
 
-### 📊 [CGM Health Monitoring App (WIP)](#)
-- Full-stack health tracker using CGM + food + fitness  
-- Tools: Streamlit, PostgreSQL, Python, AWS
+## 📫 Let’s Connect
+
+- LinkedIn: [poojitha-anuvalasetty](https://www.linkedin.com/in/poojitha-anuvalasetty/)
+- Portfolio: [Notion Portfolio](https://www.notion.so/SELECT-FROM-Poojitha-1fb0edb9699f80279cf7e15926b7a349)
+- Email: poojithaanuvalasetty@gmail.com
 
 ---
-
-📫 **Let’s Connect**  
-[LinkedIn](https://www.linkedin.com/in/poojitha-anuvalasetty) • [Email](mailto:poojithaanuvalasetty@gmail.com)
+✨ Always learning. Always building. Excited to join data teams solving impactful problems!
 
